@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XYSense.Challenge.Terminal.Tests.Unit", "XYSense.Challenge.Terminal.Tests.Unit\XYSense.Challenge.Terminal.Tests.Unit.csproj", "{A8DED53D-D2ED-412F-976B-1C031D8E95BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XYSense.Challenge.Terminal", "XYSense.Challenge.Terminal\XYSense.Challenge.Terminal\XYSense.Challenge.Terminal.csproj", "{DDDBC518-8DA2-414A-8617-78A6094AB5EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8DED53D-D2ED-412F-976B-1C031D8E95BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DED53D-D2ED-412F-976B-1C031D8E95BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DED53D-D2ED-412F-976B-1C031D8E95BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DED53D-D2ED-412F-976B-1C031D8E95BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDBC518-8DA2-414A-8617-78A6094AB5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDBC518-8DA2-414A-8617-78A6094AB5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDBC518-8DA2-414A-8617-78A6094AB5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDBC518-8DA2-414A-8617-78A6094AB5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC53A21-29EF-4780-A792-94F01BFD48BA}
+	EndGlobalSection
+EndGlobal
